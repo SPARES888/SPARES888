@@ -18,12 +18,12 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-lightgray?style=flat&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-lightgray?style=flat&logo=cplusplus&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-lightgray?style=flat&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-lightgray?style=flat&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-lightgray?style=flat&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-lightgray?style=flat&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-lightgray?style=flat&logo=c&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C++-lightgray?style=flat&logo=cplusplus&logoColor=purple" />
+  <img src="https://img.shields.io/badge/Python-lightgray?style=flat&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/HTML-lightgray?style=flat&logo=html5&logoColor=blue" />
+  <img src="https://img.shields.io/badge/CSS-lightgray?style=flat&logo=css3&logoColor=purple" />
+  <img src="https://img.shields.io/badge/Bash-lightgray?style=flat&logo=gnubash&logoColor=green" />
 </p>
 
 ---
