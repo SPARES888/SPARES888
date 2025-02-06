@@ -1,19 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile;Currently+learning+at+42Heilbronn;Passionate+about+Efficient+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile;Currently+learning+at+42Heilbronn;" alt="Typing SVG" />
 </h1>
-
-
-<p align="center" style="font-size: 18px;">
-  Currently learning in 42Heilbronn.
-</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SPARES888&show_icons=true&hide_border=true&theme=graywhite" height="165">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPARES888&theme=github-light&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPARES888&theme=graywhite&hide_border=true">
 </p>
 
 ---
