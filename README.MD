@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPARES888&theme=github-light&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPARES888&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" />
 </p>
 
 ---
