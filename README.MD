@@ -4,33 +4,32 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPARES888&bg_color=000000&color=ffffff&line=aaaaaa&point=dddddd&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPARES888&bg_color=0d1117&color=c9d1d9&line=4c566a&point=b1bac4&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=blue" />
-  <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=purple" />
-  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=blue" />
-  <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=purple" />
-  <img src="https://img.shields.io/badge/Bash-black?style=flat&logo=gnubash&logoColor=green" />
+  <img src="https://img.shields.io/badge/C-24292e?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-24292e?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-24292e?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-24292e?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-24292e?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-24292e?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ---
 
-## 🛠 Tools
+## 🛠 Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=purple" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=purple" />
-  <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=lightblue" />
-  <img src="https://img.shields.io/badge/VSCode-black?style=flat&logo=visualstudiocode&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Git-24292e?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-24292e?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-24292e?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-24292e?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
-
