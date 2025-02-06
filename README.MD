@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: 600;">
-  Welcome
+  Welcome to my Profile
 </h1>
 
 <p align="center" style="font-size: 18px;">
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=purple" />
   <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=lightblue" />
-  <img src="https://img.shields.io/badge/VSCode-black?style=flat&logo=visualstudiocode&logoColor=darkpurple" />
+  <img src="https://img.shields.io/badge/VSCode-black?style=flat&logo=visualstudiocode&logoColor=purple" />
 </p>
 
 ---
