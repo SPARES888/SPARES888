@@ -11,7 +11,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SPARES888&show_icons=true&hide_border=true&theme=graywhite" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARES888&layout=compact&hide_border=true&theme=graywhite" height="165">
 </p>
 
 ---
